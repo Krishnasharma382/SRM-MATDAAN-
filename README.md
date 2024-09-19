@@ -4,7 +4,7 @@ Note: Contact me for database issues.
 
 ASP.NET app for managing and conducting online elections in SRM AP. This project was made as a DBMS project in the 6th Semester.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture.PNG)
+![alt tag](./images/Capture.jpg)
 
 ## Table of contents
 
@@ -59,12 +59,12 @@ ASP.NET app for managing and conducting online elections in SRM AP. This project
 ### Login and Register <a name='login-and-register'></a>
 This app manages individual user accounts and provides facility for user to register himself to this app. It contains an <code>admin</code> section to manage all current elections and candidates.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture2.PNG)
+![alt tag](./images/Capture2.PNG)
 
 ### List Elections <a name='list-elections'></a>
 All current elections are listed in Elections tab and their details provided. User can apply as a candidate before the beginning of the election and wait for approval. During election any eligible user can vote for selected candidates.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture4.PNG)
+![alt tag](./images/Capture4.PNG)
 
 
 > ADMIN <a name='admin'></a>
@@ -72,12 +72,12 @@ All current elections are listed in Elections tab and their details provided. Us
 ### Admin Panel <a name=''></a>
 Go to the admin panel by <code>/admin.aspx</code>. Currently there is no security for admin panel but it will be provided in the future. There are options avaliable to Add Elections, Edit Elections and Add Candidates.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture7.PNG)
+![alt tag](./images/Capture7.PNG)
 
 ### Add Elections <a name='add-elections'></a>
 Admin can add Elections by providing the details of the election. Once successfully added, Election is shown in the Election's list to all users.
 
-![alt tag](https://raw.githubusercontent.com/srajat/Online-Voting-System/master/images/Capture8.PNG)
+![alt tag](./images/Capture8.PNG)
 
 
 ## Links <a name='links'></a>
